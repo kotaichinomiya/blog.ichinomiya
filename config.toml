@@ -1,11 +1,10 @@
-baseurl = "http://kotaichinomiya"
+baseurl = "https://kotaichinomiya/"
 
 title = "johndoe"
 
 publishDir = "docs"
 
 theme = "hugo-coder"
-
 languagecode = "en"
 defaultcontentlanguage = "en"
 
