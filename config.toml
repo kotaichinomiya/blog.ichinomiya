@@ -1,6 +1,9 @@
 baseurl = "http://kotaichinomiya"
+
 title = "johndoe"
+
 publishDir = "docs"
+
 theme = "hugo-coder"
 
 languagecode = "en"
